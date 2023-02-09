@@ -882,7 +882,7 @@
         <Channel0
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -893,7 +893,7 @@
         <Channel1
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -904,7 +904,7 @@
         <Channel2
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -915,7 +915,7 @@
         <Channel3
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -926,7 +926,7 @@
         <Channel4
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -937,7 +937,7 @@
         <Channel5
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -948,7 +948,7 @@
         <Channel6
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -959,7 +959,7 @@
         <Channel7
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -970,7 +970,7 @@
         <Channel8
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -981,7 +981,7 @@
         <Channel9
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -992,7 +992,7 @@
         <Channel10
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1003,7 +1003,7 @@
         <Channel11
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1014,7 +1014,7 @@
         <Channel12
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1025,7 +1025,7 @@
         <Channel13
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1036,7 +1036,7 @@
         <Channel14
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1047,7 +1047,7 @@
         <Channel15
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1058,7 +1058,7 @@
         <Channel16
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1069,7 +1069,7 @@
         <Channel17
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1080,7 +1080,7 @@
         <Channel18
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1091,7 +1091,7 @@
         <Channel19
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1102,7 +1102,7 @@
         <Channel20
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1113,7 +1113,7 @@
         <Channel21
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1124,7 +1124,7 @@
         <Channel22
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1135,7 +1135,7 @@
         <Channel23
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1146,7 +1146,7 @@
         <Channel24
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1157,7 +1157,7 @@
         <Channel25
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1168,7 +1168,7 @@
         <Channel26
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1179,7 +1179,7 @@
         <Channel27
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1190,7 +1190,7 @@
         <Channel28
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1201,7 +1201,7 @@
         <Channel29
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1212,7 +1212,7 @@
         <Channel30
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
@@ -1223,7 +1223,7 @@
         <Channel31
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="122"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
