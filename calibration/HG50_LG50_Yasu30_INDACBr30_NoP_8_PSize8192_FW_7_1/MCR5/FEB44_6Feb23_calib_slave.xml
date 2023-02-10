@@ -89,7 +89,7 @@
         <Channel5
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="203"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
