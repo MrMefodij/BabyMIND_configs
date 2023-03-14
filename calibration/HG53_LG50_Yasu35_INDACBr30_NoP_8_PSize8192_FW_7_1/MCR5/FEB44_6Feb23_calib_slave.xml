@@ -1804,7 +1804,7 @@
       </Channels>
       <GlobalControl
         TempEn="True"
-        L1ThresholdHG="5"
+        L1ThresholdHG="60"
         L1ThresholdLG="20" />
     </ASIC2>
     <GlobalControl

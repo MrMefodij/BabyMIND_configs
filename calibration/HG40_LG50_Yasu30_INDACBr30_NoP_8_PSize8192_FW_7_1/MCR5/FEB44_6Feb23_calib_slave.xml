@@ -89,7 +89,7 @@
         <Channel5
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="133"
+          inputDAC="203"
           inputDAC_En="True"
           HG_Gain="40"
           HG_CTest="False"
@@ -1804,7 +1804,7 @@
       </Channels>
       <GlobalControl
         TempEn="True"
-        L1ThresholdHG="5"
+        L1ThresholdHG="60"
         L1ThresholdLG="20" />
     </ASIC2>
     <GlobalControl

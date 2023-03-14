@@ -1047,7 +1047,7 @@
         <Channel15
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="164"
+          inputDAC="134"
           inputDAC_En="True"
           HG_Gain="50"
           HG_CTest="False"
