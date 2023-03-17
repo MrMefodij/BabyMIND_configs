@@ -1,0 +1,321 @@
+{	
+	"Environment":{
+		"Configuration":{
+			"IPport": 36000,
+			"IPaddress": [10,128,45,6],
+			"DebugDisplay": true,
+			"MCBComPort": "COM4",
+			"MCB_mode" : "COSMIC_DAQ" ,
+			"InternalSpill" : false,
+			"InternalDAQPulseWidth" : 255,
+			"BeamDAQPulseWidth" : 10
+		},
+		"Logger": {
+		  "AppPath": "$APP$/LOG/APP",
+		  "CmdPath": "$APP$/LOG/CMD",
+		  "LoggerPath": "$APP$/LOG/CMD",
+		  "AppDAQPrefix": "DAQ",
+		  "ErrorPrefix": "Error",
+		  "TCPIPCmdPrefix": "TCPIP",
+		  "ThreadCmdPrefix": "Thread"
+		},
+		"ErrorThread": {
+		  "IPport": 11001,
+		  "QueueSize": 2000,
+		  "SeverityLevel": "WARNING",
+		  "Enabled": true
+		},
+		"MonitoringThread": {
+		  "ReducedMonitoring" : true,
+		  "IPport": 11002,
+		  "PeriodSeconds": 5
+		}			
+	},
+	"MCR":[
+	
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 0,
+				"BoardIdEnd": 5
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB0_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB1_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB2_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB3_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB4_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB5_6Feb23_calib_slave.xml",
+			],
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+		
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 8,
+				"BoardIdEnd": 13
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB8_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB9_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB10_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB11_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB12_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB13_6Feb23_calib_slave.xml",
+			],
+
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+		
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 16,
+				"BoardIdEnd": 21
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB16_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB17_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB18_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB19_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB20_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB21_6Feb23_calib_slave.xml",
+			],
+
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+	
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 24,
+				"BoardIdEnd": 29
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB24_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB25_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB26_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB27_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB28_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB29_6Feb23_calib_slave.xml",
+			],
+
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+		
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 32,
+				"BoardIdEnd": 36
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB32_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB33_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB34_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB35_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB36_6Feb23_calib_slave.xml",
+			],
+
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+		
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 40,
+				"BoardIdEnd": 44
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB40_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB41_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB42_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB43_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB44_6Feb23_calib_slave.xml",
+							
+			],
+
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+		
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 48,
+				"BoardIdEnd": 53
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB48_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB49_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB50_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB51_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB52_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB53_6Feb23_calib_slave.xml",
+			],
+
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+		
+		{
+			"UsbBoardId": {
+				"BoardIdStart": 56,
+				"BoardIdEnd": 60
+			},
+			"Configuration": {
+				"DefaultConfigExtXML": true,
+				"DefaultSelDevices": 31,
+				"EnableThread": true
+			},
+			"Readout": {
+				"MonitoringQueue": true,
+				"UDPReadout": false,
+				"UDPPort": 12000,
+				"UDP_IPaddress":[10,128,45,6]
+			},
+
+			"DaqPath": "F:/data/2023/calibration/",
+			"DaqType": "25_7C",
+			"DaqFileName": "/calibration_MCR_",
+			"RunNumber": "0",
+
+			"FullName": "test.daq",
+			
+			"ConfigurationFiles":["D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB56_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB57_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB58_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB59_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG53_LG50_Yasu35_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB60_6Feb23_calib_slave.xml",
+			],
+
+			"FileSizeLimit": 5000000,
+			"TimeLimit" : 1000000,
+		},
+	]
+}
