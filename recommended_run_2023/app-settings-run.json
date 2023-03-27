@@ -249,7 +249,7 @@
 		{
 			"UsbBoardId": {
 				"BoardIdStart": 48,
-				"BoardIdEnd": 53
+				"BoardIdEnd": 52
 			},
 			"Configuration": {
 				"DefaultConfigExtXML": true,
@@ -275,7 +275,6 @@
 							"D:/configs/Safe/2023/Safe_12Jan2023-HG50_30Yasu-LG50_th220Yasu_hm-20us-L1MaskStart1000-L1MaskStop3000_L1HoldEn/MCR6/FEB50_safe_6Feb23_beam__hm-20us.xml",
 							"D:/configs/Safe/2023/Safe_12Jan2023-HG50_30Yasu-LG50_th220Yasu_hm-20us-L1MaskStart1000-L1MaskStop3000_L1HoldEn/MCR6/FEB51_safe_6Feb23_beam__hm-20us.xml",
 							"D:/configs/Safe/2023/Safe_12Jan2023-HG50_30Yasu-LG50_th220Yasu_hm-20us-L1MaskStart1000-L1MaskStop3000_L1HoldEn/MCR6/FEB52_safe_6Feb23_beam__hm-20us.xml",
-							"D:/configs/Safe/2023/Safe_12Jan2023-HG50_30Yasu-LG50_th220Yasu_hm-20us-L1MaskStart1000-L1MaskStop3000_L1HoldEn/MCR6/FEB53_safe_6Feb23_beam__hm-20us.xml",
 			],
 
 			"FileSizeLimit": 5000000,

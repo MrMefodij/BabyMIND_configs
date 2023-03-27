@@ -249,7 +249,7 @@
 		{
 			"UsbBoardId": {
 				"BoardIdStart": 48,
-				"BoardIdEnd": 53
+				"BoardIdEnd": 52
 			},
 			"Configuration": {
 				"DefaultConfigExtXML": true,
@@ -275,7 +275,6 @@
 							"D:/configs/calibration/2023/HG45_LG50_Yasu25_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB50_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/HG45_LG50_Yasu25_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB51_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/HG45_LG50_Yasu25_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB52_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/HG45_LG50_Yasu25_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB53_6Feb23_calib_slave.xml",
 			],
 
 			"FileSizeLimit": 5000000,
