@@ -14,7 +14,7 @@
       StartRequestOnly="False"
       StopDaqEndTimeout="200000" />
     <DirectParam
-      HvOn="False"
+      HvOn="True"
       GlobalTrigEn="True"
       AsicEventEn="True"
       InternalGenEn="False"
@@ -1920,9 +1920,9 @@
       <Channel21
         HvEn="True" />
       <Channel22
-        HvEn="False" />
-      <Channel23
         HvEn="True" />
+      <Channel23
+        HvEn="False" />
       <Channel24
         HvEn="True" />
       <Channel25
