@@ -559,7 +559,7 @@
           DAC4bTrigger="10"
           inputDAC="134"
           inputDAC_En="True"
-          HG_Gain="50"
+          HG_Gain="30"
           HG_CTest="False"
           LG_Gain="50"
           LG_CTest="False"
