@@ -1135,7 +1135,7 @@
         <Channel23
           DAC4bTrigger_t="10"
           DAC4bTrigger="10"
-          inputDAC="134"
+          inputDAC="104"
           inputDAC_En="True"
           HG_Gain="53"
           HG_CTest="False"
