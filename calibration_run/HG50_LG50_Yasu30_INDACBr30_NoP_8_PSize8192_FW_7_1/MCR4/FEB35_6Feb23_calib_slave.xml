@@ -1838,18 +1838,6 @@
       CompareOutEn="True"
       AdcComputeEn="False"
       Or32tADC="False"
-      Or32ADCDis="False"
-      TrigIn_to_ADC_En="False"
-      Nor32ADCEn="False"
-      Nor32tADCEn="False"
-      Sum96Thd_to_ADC_En="False"
-      Nor32t_to_PSGtrig_En="False"
-      Nor32_to_PSGtrig_En="False"
-      TrigIn_to_PSGtrig_En="False"
-      Nor32t_to_TrigOut_En="False"
-      Nor32_to_TrigOut_En="False"
-      Sum96Thd_to_TrigOut_En="False"
-      Sum96Threshold="1"
       AdcPhase="3"
       IndivTriggerDelay="0"
       ReadoutEnableOnStartSignal="SyncRdEn"
@@ -1859,11 +1847,9 @@
       ReadoutSID="0"
       ReadoutIncGtrigTagOnGtrig="False"
       ReadoutHoldMaskEn="True"
-      ReadoutHoldMaskToPSResetEn="False"
       ReadoutHoldMaskStart="1850"
       ReadoutHoldMaskStop="2850"
-      ReadoutHoldStartTimeEn="False"
-      ReadoutHoldEndTimeEn="False"
+      GbTDMslot="0"
       GbTDMEn="True"
       UsbSyncRdEnStopDelay="512"
       GbMuxRxEn="False"
@@ -1882,6 +1868,8 @@
       MCBExtSpillGateInv="False"
       MCBSpillNbEn="False"
       MCBSpillNbResetEn="False"
+      Reserved2_2="0"
+      Reserved3_4="1"
       Debug0="0"
       Debug1="0" />
   </FPGA>
@@ -1910,7 +1898,7 @@
       <Channel10
         HvEn="True" />
       <Channel11
-        HvEn="True" />
+        HvEn="False" />
       <Channel12
         HvEn="True" />
       <Channel13

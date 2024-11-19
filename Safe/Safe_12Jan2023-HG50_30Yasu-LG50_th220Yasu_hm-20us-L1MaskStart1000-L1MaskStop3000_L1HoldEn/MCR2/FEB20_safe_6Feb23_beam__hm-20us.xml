@@ -1468,7 +1468,7 @@
       </Channels>
       <GlobalControl
         TempEn="True"
-        L1ThresholdHG="30"
+        L1ThresholdHG="70"
         L1ThresholdLG="20" />
     </ASIC0>
     <ASIC1>

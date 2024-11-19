@@ -203,7 +203,7 @@
 							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB33_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB34_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB35_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB36_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB36_6Feb23_calib_slave_test.xml",
 			],
 
 			"FileSizeLimit": 5000000,
@@ -249,7 +249,7 @@
 		{
 			"UsbBoardId": {
 				"BoardIdStart": 48,
-				"BoardIdEnd": 52
+				"BoardIdEnd": 53
 			},
 			"Configuration": {
 				"DefaultConfigExtXML": true,
@@ -275,6 +275,7 @@
 							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB50_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB51_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB52_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/HG55_LG50_Yasu40_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB53_6Feb23_calib_slave_obso.xml"
 			],
 
 			"FileSizeLimit": 5000000,

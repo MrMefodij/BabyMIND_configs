@@ -61,10 +61,10 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB1_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB2_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB3_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB4_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR0/FEB4_6Feb23_calib_slave.xml"
 			],
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
+			"TimeLimit" : 1000000
 		},
 		
 		{
@@ -96,11 +96,11 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB10_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB11_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB12_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB13_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR1/FEB13_6Feb23_calib_slave.xml"
 			],
 
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
+			"TimeLimit" : 1000000
 		},
 		
 		{
@@ -132,11 +132,11 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB18_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB19_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB20_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB21_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR2/FEB21_6Feb23_calib_slave.xml"
 			],
 
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
+			"TimeLimit" : 1000000
 		},
 	
 		{
@@ -168,11 +168,11 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB26_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB27_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB28_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB29_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR3/FEB29_6Feb23_calib_slave.xml"
 			],
 
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
+			"TimeLimit" : 1000000
 		},
 		
 		{
@@ -203,11 +203,11 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB33_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB34_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB35_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB36_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR4/FEB36_6Feb23_calib_slave_test.xml"
 			],
 
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
+			"TimeLimit" : 1000000
 		},
 		
 		{
@@ -238,18 +238,18 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB41_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB42_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB43_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB44_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR5/FEB44_6Feb23_calib_slave.xml"
 							
 			],
 
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
+			"TimeLimit" : 1000000
 		},
 		
 		{
 			"UsbBoardId": {
 				"BoardIdStart": 48,
-				"BoardIdEnd": 52
+				"BoardIdEnd": 53
 			},
 			"Configuration": {
 				"DefaultConfigExtXML": true,
@@ -275,10 +275,10 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB50_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB51_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB52_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR6/FEB53_6Feb23_calib_slave_obso.xml",
 			],
-
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
+			"TimeLimit" : 1000000
 		},
 		
 		{
@@ -309,11 +309,11 @@
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB57_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB58_6Feb23_calib_slave.xml",
 							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB59_6Feb23_calib_slave.xml",
-							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB60_6Feb23_calib_slave.xml",
+							"D:/configs/calibration/2023/Calibration_HG50_LG50_NoisyHG30_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/HG50_LG50_Yasu30_INDACBr30_NoP_8_PSize8192_FW_7_1/MCR7/FEB60_6Feb23_calib_slave.xml"
 			],
 
 			"FileSizeLimit": 5000000,
-			"TimeLimit" : 1000000,
-		},
+			"TimeLimit" : 1000000
+		}
 	]
 }

@@ -1141,7 +1141,7 @@
           HG_CTest="False"
           LG_Gain="50"
           LG_CTest="False"
-          PA_DIS="False"
+          PA_DIS="False"x
           DiscriMask="False" />
         <Channel24
           DAC4bTrigger_t="10"
